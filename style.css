@@ -1,0 +1,76 @@
+body{
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  background-color:lightskyblue;
+  text-align:center;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+header{
+  text-align:center;
+  background-image:url(https://cdn.pixabay.com/photo/2025/04/15/19/37/ai-generated-9536165_1280.jpg);
+  font-size:100%;
+}
+
+header h1{
+  padding-top:100px;
+  margin-bottom:10px;
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color:white;
+  font-size:50px;
+}
+
+nav{
+    text-align: center;
+    padding-bottom:70px;
+    
+}
+
+nav a{
+    margin: 0px;
+    font-size:20px;
+    color: black;
+}
+
+button{
+    border-radius: 10px;
+    
+}
+.DungeonsDragons{
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  background-color:#F3EBF4;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:50px;
+  flex-direction: column;
+  text-align: center;
+}
+.DungeonsDragons img{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    margin:10px;
+}
+
+.DungeonsDragons p{
+    font-family: 'ABeeZee';
+    padding-left: 10px;
+    font-size: 23px;
+    text-align: left;
+    padding-bottom:10px;
+}
+.opus{
+  margin:0px;
+  font-size:20px;
+  padding-bottom:10px;
+  padding-bottom:100px;
+}
